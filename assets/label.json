@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "5ee71805914ead6302326274",
+        "label": "Airplane",
+        "description": "An aeroplane is a flying vehichle.It runs by pilot.It has wings. It flies like abird. It travells faster",
+        "__v": 0
+    },
+    {
+        "_id": "5ee7198f914ead6302326275",
+        "label": "Car",
+        "description": "It is vehicle that has four wheels. It runs on road. It can carry 4 or more people. It runs on fuel. . It has lights and horn.",
+        "__v": 0
+    },
+    {
+        "_id": "5ee719f9914ead6302326276",
+        "label": "Dog",
+        "description": "Dog is an animal. It can barks. It has 4 legs. It wags it tail. Dog is a companion of man.",
+        "__v": 0
+    },
+    {
+        "_id": "5ee71acb914ead6302326277",
+        "label": "Flower",
+        "description": "Flower is a part of a plant. It has pettels. It smells good. it looks beautiful. It is found in garden. It attracts flies",
+        "__v": 0
+    }
+]

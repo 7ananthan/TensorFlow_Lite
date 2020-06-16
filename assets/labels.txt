@@ -1,3 +1,9 @@
-Sad
-Funny
-Laughing
+airplane
+car
+cat
+dog
+flower
+fruit
+men
+motorbike
+women
